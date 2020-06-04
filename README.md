@@ -14,4 +14,7 @@ Sample website with plenty of files for demos. More has been added on here.
 
 This is the deployment section. 
 
-## How to Contribute
+## How to Contributes
+
+## Copyright
+This is a copyright notice
