@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is fasdfasdfasdfor showing how Git and GitHub work. This is a simple github project.
-more changes for myfeature branch
+more changes for myfeature branch. Updating
+
 
 ##Introduction
 This is the introduction section.
