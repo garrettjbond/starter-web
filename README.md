@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. This is a simple github project.
+This repository is fasdfasdfasdfor showing how Git and GitHub work. This is a simple github project.
 
 ##Introduction
 This is the introduction section.
